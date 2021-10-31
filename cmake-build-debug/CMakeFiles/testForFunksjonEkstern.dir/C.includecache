@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/terje/source/repos/testForFunksjonEkstern/Funksjoner.h
+
+C:/Users/terje/source/repos/testForFunksjonEkstern/main.c
+stdio.h
+-
+Funksjoner.h
+C:/Users/terje/source/repos/testForFunksjonEkstern/Funksjoner.h
+

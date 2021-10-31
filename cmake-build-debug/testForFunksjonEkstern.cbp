@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="testForFunksjonEkstern"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/terje/source/repos/testForFunksjonEkstern/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MINGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/terje/source/repos/testForFunksjonEkstern/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MINGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/terje/source/repos/testForFunksjonEkstern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MINGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/terje/source/repos/testForFunksjonEkstern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MINGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/terje/source/repos/testForFunksjonEkstern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/terje/source/repos/testForFunksjonEkstern/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MINGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/terje/source/repos/testForFunksjonEkstern/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MINGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/terje/source/repos/testForFunksjonEkstern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MINGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/terje/source/repos/testForFunksjonEkstern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MINGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/terje/source/repos/testForFunksjonEkstern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testForFunksjonEkstern">
+				<Option output="C:/Users/terje/source/repos/testForFunksjonEkstern/cmake-build-debug/testForFunksjonEkstern.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/terje/source/repos/testForFunksjonEkstern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/MINGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/MINGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/MINGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MINGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/terje/source/repos/testForFunksjonEkstern/cmake-build-debug/Makefile&quot;  VERBOSE=1 testForFunksjonEkstern"/>
+					<CompileFile command="C:/MINGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/terje/source/repos/testForFunksjonEkstern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MINGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/terje/source/repos/testForFunksjonEkstern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MINGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/terje/source/repos/testForFunksjonEkstern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testForFunksjonEkstern/fast">
+				<Option output="C:/Users/terje/source/repos/testForFunksjonEkstern/cmake-build-debug/testForFunksjonEkstern.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/terje/source/repos/testForFunksjonEkstern/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/MINGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/MINGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/MINGW/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MINGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/terje/source/repos/testForFunksjonEkstern/cmake-build-debug/Makefile&quot;  VERBOSE=1 testForFunksjonEkstern/fast"/>
+					<CompileFile command="C:/MINGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/terje/source/repos/testForFunksjonEkstern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MINGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/terje/source/repos/testForFunksjonEkstern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MINGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/terje/source/repos/testForFunksjonEkstern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/terje/source/repos/testForFunksjonEkstern/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MINGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/terje/source/repos/testForFunksjonEkstern/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MINGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/terje/source/repos/testForFunksjonEkstern/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MINGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/terje/source/repos/testForFunksjonEkstern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MINGW/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/terje/source/repos/testForFunksjonEkstern/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/terje/source/repos/testForFunksjonEkstern/Funksjoner.c">
+			<Option target="testForFunksjonEkstern"/>
+		</Unit>
+		<Unit filename="C:/Users/terje/source/repos/testForFunksjonEkstern/Funksjoner.h">
+			<Option target="testForFunksjonEkstern"/>
+		</Unit>
+		<Unit filename="C:/Users/terje/source/repos/testForFunksjonEkstern/main.c">
+			<Option target="testForFunksjonEkstern"/>
+		</Unit>
+		<Unit filename="C:/Users/terje/source/repos/testForFunksjonEkstern/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

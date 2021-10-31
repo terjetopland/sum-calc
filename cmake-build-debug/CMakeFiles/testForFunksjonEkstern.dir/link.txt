@@ -1,0 +1,3 @@
+C:\Users\terje\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.5080.54\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\testForFunksjonEkstern.dir/objects.a
+C:\MINGW\mingw64\bin\ar.exe cr CMakeFiles\testForFunksjonEkstern.dir/objects.a @CMakeFiles\testForFunksjonEkstern.dir\objects1.rsp
+C:\MINGW\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\testForFunksjonEkstern.dir/objects.a -Wl,--no-whole-archive -o testForFunksjonEkstern.exe -Wl,--out-implib,libtestForFunksjonEkstern.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\testForFunksjonEkstern.dir\linklibs.rsp
