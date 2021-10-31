@@ -4,8 +4,8 @@
 #include "stdio.h"
 #include "Funksjoner.h"
 //This only writes a string when used
-int test() {
-    printf("Hello Terje\n");
+int greeting() {
+    printf("Hello there!\nPlease enter your name:\n");
 }
 
 //This sum number in an random array defined

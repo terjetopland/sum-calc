@@ -6,7 +6,7 @@
 #define TESTFORFUNKSJONEKSTERN_FUNKSJONER_H
 //code navn
 
-int test();
+int greeting();
 
 int sum(int an_array[], int array_size);
 
